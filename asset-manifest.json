@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/dinamicatelevisao/static/css/main.812f6dae.chunk.css",
+    "main.js": "/dinamicatelevisao/static/js/main.13be7782.chunk.js",
+    "main.js.map": "/dinamicatelevisao/static/js/main.13be7782.chunk.js.map",
+    "runtime-main.js": "/dinamicatelevisao/static/js/runtime-main.4f8a016c.js",
+    "runtime-main.js.map": "/dinamicatelevisao/static/js/runtime-main.4f8a016c.js.map",
+    "static/js/2.7f93d937.chunk.js": "/dinamicatelevisao/static/js/2.7f93d937.chunk.js",
+    "static/js/2.7f93d937.chunk.js.map": "/dinamicatelevisao/static/js/2.7f93d937.chunk.js.map",
+    "static/js/3.ddc62d32.chunk.js": "/dinamicatelevisao/static/js/3.ddc62d32.chunk.js",
+    "static/js/3.ddc62d32.chunk.js.map": "/dinamicatelevisao/static/js/3.ddc62d32.chunk.js.map",
+    "index.html": "/dinamicatelevisao/index.html",
+    "static/css/main.812f6dae.chunk.css.map": "/dinamicatelevisao/static/css/main.812f6dae.chunk.css.map",
+    "static/js/2.7f93d937.chunk.js.LICENSE.txt": "/dinamicatelevisao/static/js/2.7f93d937.chunk.js.LICENSE.txt",
+    "static/media/img10.e938bea2.png": "/dinamicatelevisao/static/media/img10.e938bea2.png",
+    "static/media/img11.caeb8e3d.png": "/dinamicatelevisao/static/media/img11.caeb8e3d.png",
+    "static/media/img12.1b8e9f34.png": "/dinamicatelevisao/static/media/img12.1b8e9f34.png",
+    "static/media/img13copy.21f42895.png": "/dinamicatelevisao/static/media/img13copy.21f42895.png",
+    "static/media/img14.4f9b78ff.png": "/dinamicatelevisao/static/media/img14.4f9b78ff.png",
+    "static/media/img15.a47f8248.png": "/dinamicatelevisao/static/media/img15.a47f8248.png",
+    "static/media/img16.95817301.png": "/dinamicatelevisao/static/media/img16.95817301.png",
+    "static/media/img18.ffd93b3a.png": "/dinamicatelevisao/static/media/img18.ffd93b3a.png",
+    "static/media/img19.785dbe44.png": "/dinamicatelevisao/static/media/img19.785dbe44.png",
+    "static/media/img20.9d413fdb.png": "/dinamicatelevisao/static/media/img20.9d413fdb.png",
+    "static/media/img21.759d2471.png": "/dinamicatelevisao/static/media/img21.759d2471.png",
+    "static/media/img4.d630fc03.png": "/dinamicatelevisao/static/media/img4.d630fc03.png",
+    "static/media/img5.9a354a4a.png": "/dinamicatelevisao/static/media/img5.9a354a4a.png",
+    "static/media/img6.6cc94a47.png": "/dinamicatelevisao/static/media/img6.6cc94a47.png",
+    "static/media/img8.751f54fc.png": "/dinamicatelevisao/static/media/img8.751f54fc.png",
+    "static/media/img9.ea0a2d85.png": "/dinamicatelevisao/static/media/img9.ea0a2d85.png",
+    "static/media/logo.147464e2.png": "/dinamicatelevisao/static/media/logo.147464e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f8a016c.js",
+    "static/js/2.7f93d937.chunk.js",
+    "static/css/main.812f6dae.chunk.css",
+    "static/js/main.13be7782.chunk.js"
+  ]
+}
